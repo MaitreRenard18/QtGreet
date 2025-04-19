@@ -6,7 +6,7 @@ Layout = layout.hjson
 StyleSheet = style.qss
 
 [Theme]
-Background = ../../backgrounds/Kavetham.jpg
+Background = ../../backgrounds/SmoothGradient.png
 BaseColor = ffffffff
 TextColor = ffffff
 Type = Image
