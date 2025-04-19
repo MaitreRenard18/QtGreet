@@ -1,0 +1,12 @@
+[General]
+Name = Material
+
+[Files]
+Layout = layout.hjson
+StyleSheet = style.qss
+
+[Theme]
+Background = ../../backgrounds/Kavetham.jpg
+BaseColor = ffffffff
+TextColor = ffffff
+Type = Image
